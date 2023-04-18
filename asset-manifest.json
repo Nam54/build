@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.6227039f.css",
-    "main.js": "/static/js/main.614f50da.js",
+    "main.js": "/static/js/main.574af300.js",
     "static/media/head-logo.jpg": "/static/media/head-logo.b23f66d74aef0654e0e6.jpg",
     "static/media/valet-parking.jpg": "/static/media/valet-parking.32e76299e8f331199be1.jpg",
     "static/media/bus.svg": "/static/media/bus.40aefca44febc4995969.svg",
     "index.html": "/index.html",
     "main.6227039f.css.map": "/static/css/main.6227039f.css.map",
-    "main.614f50da.js.map": "/static/js/main.614f50da.js.map"
+    "main.574af300.js.map": "/static/js/main.574af300.js.map"
   },
   "entrypoints": [
     "static/css/main.6227039f.css",
-    "static/js/main.614f50da.js"
+    "static/js/main.574af300.js"
   ]
 }
